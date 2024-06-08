@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Planner</string>
+    <string-array name="categoriesArray">
+        <item>Не выбрано</item>
+        <item>Дом</item>
+        <item>Работа</item>
+        <item>Спорт</item>
+        <item>Учеба</item>
+        <item>Хобби</item>
+        <item>Семья</item>
+        <item>Друзья</item>
+    </string-array>
+    <integer-array name="priorityArray">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </integer-array>
+</resources>

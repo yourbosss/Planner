@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="done_task">#6E6C6C</color>
+    <color name="base_task">#8D74A8</color>
+    <color name="main_back">#c9e9ee</color>
+    <color name="main_text">#469697</color>
+    <color name="impotent1">#ec959e</color>
+    <color name="impotent2">#d6e48f</color>
+    <color name="impotent3">#A1C597</color>
+    <color name="back_red">#a71c1c</color>
+    <color name="header">#831d1e</color>
+</resources>
